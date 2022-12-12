@@ -52,12 +52,118 @@ const pinotGrigio = [
     name: "Tiefenbrunner Pinot Grigio, Alto Adige - Sud Tirol 2021 DOC",
     price: 40
   },
-  
+  {
+    name: "Jermann Pinot Grigio Venezia, Giulia IGT 2019",
+    price: 47
+  }
 ]
+
+const whitePiedmont = [
+  {
+    name: "Vietti Roero, Arneis DOCG 2021",
+    price: 55
+  },
+  {
+    name: "Villa Sparina, Gavi di Gavi DOCG 2021",
+    price: 45
+  },
+  {
+    name: "Gaja Chardonnay 'Rossj Bass', Langhe DOC 2019",
+    price: 195
+
+  }
+]
+
+const whiteSardinia =[
+  {
+    name: "Jankara, Vermentino di Gallura Superiore DOCG",
+    price: 58
+  }
+]
+
+const whiteCampania =[
+  {
+    name: "Mastroberardinoc Falanghina del Sannio DOC",
+    price: 45
+  }
+]
+
+const whiteFriulli = [
+  {
+    name: "Vie de Romans Piere Sauvignon Friulli Isonzo",
+    price: 80
+  },
+]
+
+const whiteSicily = [
+  {
+    name: "Tasca d'Almerita Tenuta Regaleali Vigna San Francesco Chardonnay 2016",
+    price: 75
+  },
+  {
+    name: "Planeta Chardonnay Menfi",
+    price: 75
+  }
+]
+
+const whiteTrentino = [
+  {
+    name: "Tramin Gewurztraminer Nussbaumer, Trentino 2020",
+    price: 75
+  }
+]
+
+const whiteTuscany = [
+  {
+    name: "Tua Rita, Perlato di Bosco, Bolgheri, Toscana 2020",
+    price: 60
+  }
+]
+
+const whiteUmbria = [
+  {
+    name: "Marchese Antinori 'Cervaro della Sala', Umbria IGT 2020",
+    price: 105
+  },
+  {
+    name: "Marchese Antinori 'Bramito', Umbria IGT 2021",
+    price: 45
+  }
+]
+
+const whiteVeneto = [
+  {
+    name: "Pieropan Soave Classico Veneto DOC",
+    price: 43
+  }
+]
+
+const whiteCalifornia = [
+  {
+    name: "Chateu Montelena Chardonnay, 2020",
+    price: 145
+
+  }
+]
+
+//------------------------------------------------------------------------
+
+
+
 
 export {
   sparklingItaly,
   champagneFrance,
   rose,
   pinotGrigio,
+  whitePiedmont,
+  whiteSardinia,
+  whiteCampania,
+  whiteFriulli,
+  whiteSicily,
+  whiteTrentino,
+  whiteTuscany,
+  whiteUmbria,
+  whiteVeneto,
+  whiteCalifornia,
 }
