@@ -148,7 +148,36 @@ const whiteCalifornia = [
 
 //------------------------------------------------------------------------
 
+// {
+//   name: "",
+//   price:
+// }
 
+const redApulia = [
+  {
+    name: "Masseria Li Veli 'Passamante' Negroamaro, Salento IGT 2020",
+    price: 44
+  }
+]
+
+const redPiedmont = [
+  {
+    name: "La Spinetta Bordini, Barbaresco DOCG 2019",
+    price: 125
+  },
+  {
+    name: "Gresy Barbaresco Martinenga DOCG",
+    price: 130
+  },
+  {
+    name: "La Spinetta 'Ca di Pan', Barbera d'Asti DOCG 2018",
+    price: 65
+  },
+  {
+    name: "Produttori del Barbaresco Langhe Nebbiolo",
+    price: 60
+  }
+]
 
 
 export {
@@ -166,4 +195,6 @@ export {
   whiteUmbria,
   whiteVeneto,
   whiteCalifornia,
+  redApulia,
+  redPiedmont,
 }
