@@ -316,6 +316,20 @@ const redTuscany = [
   },
 ]
 
+const redTrentinoAltoAdige = [
+  {
+    name: "Abbazia di Novacella Pinot Nero, Trentino Alto Adige 2021 DOC",
+    price: 55
+  },
+  {
+    name: "Hofstatter Meczan Pinot Nero, Trentino Alto Adige 2020 DOC",
+    price: 43
+  },
+  {
+    name: "Tiefenbrunner Turnhof Lagrein, Trentino Alto Adige 2018",
+    price:
+  },
+]
 
 export {
   sparklingItaly,
