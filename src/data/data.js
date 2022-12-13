@@ -414,9 +414,34 @@ const redUsa = [
     name: "Chappellet Mountain Cuvee, Rare Blend, Napa Valley 2020",
     price: 70
   },
-
-  
 ]
+
+const redArg = [
+  {
+    name: "Bodega Aleanna 'El Enemigo' Malbec, Mendoza 2018",
+    price: 60
+  },
+  {
+    name: "Vina Cobos 'Felino' Mablec, Mendoza 2021",
+    price: 60
+  },
+  {
+    name: "Catena Zapata 'Catena Alta' Malbec, Mendoza 2018",
+    price: 110
+  },
+  {
+    name: "Catena Zapata 'Catena Alta' Cabernet Sauvignon, Mendoza 2018",
+    price: 90
+  },
+]
+
+const redChile = [
+  {
+    name: "Terranoble 'Gran Reserva' Carmenere, Colchagua Valley 2018",
+    price: 48
+  },
+]
+
 
 export {
   sparklingItaly,
@@ -442,4 +467,7 @@ export {
   redTrentinoAltoAdige,
   redVeneto,
   redSpain,
+  redUsa,
+  redArg,
+  redChile,
 }
