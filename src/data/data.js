@@ -327,8 +327,32 @@ const redTrentinoAltoAdige = [
   },
   {
     name: "Tiefenbrunner Turnhof Lagrein, Trentino Alto Adige 2018",
-    price:
+    price: 65
   },
+]
+
+const redVeneto = [
+  {
+    name: "Allegrini Amarone della Valpolicella Classico DOCG 2018",
+    price: 115
+  },
+  {
+    name: "Zenato, Amarone della Valpolicella Classico DOCG 2017",
+    price: 125
+  },
+  {
+    name: "Santori di Verona Amarone della Valpolicella DOCG 2015",
+    price: 95
+  },
+  {
+    name: "Zenato 'Ripassa', Valpolicella Ripasso Superiore DOC 2018",
+    price: 60
+  },
+  {
+    name: "Bertani Amarone della Valpolicella Valpantena DOCG",
+    price: 110
+  },
+
 ]
 
 export {
@@ -352,4 +376,6 @@ export {
   redSardinia,
   redSicily,
   redTuscany,
+  redTrentinoAltoAdige,
+  redVeneto
 }
