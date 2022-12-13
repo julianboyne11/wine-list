@@ -352,7 +352,70 @@ const redVeneto = [
     name: "Bertani Amarone della Valpolicella Valpantena DOCG",
     price: 110
   },
+]
 
+const redSpain = [
+  {
+    name: "Marques de Murrieta Rioja, Reserva, Doca 2017",
+    price: 70
+  },
+]
+
+const redUsa = [
+  {
+    name: "Caymus Vineyard Cabernet Sauvignon, Napa Valley 2020",
+    price: 170
+  },
+  {
+    name: "Nickel & Nickel State Ranch Cabernet Sauvignon 2019",
+    price: 195
+  },
+  {
+    name: "Ferrari Carano Cabernet Sauvignon 2019",
+    price: 75
+  },
+  {
+    name: "Chataeu Montelena Cabernet Sauvignon, Napa Valley 2019 ",
+    price: 155
+  },
+  {
+    name: "Duckhorn Vineyard Cabernet Sauvignon, Napa Valley 2019",
+    price: 89
+  },
+  {
+    name: "Frog's Leap Estate Grown Cabernet Sauvignon, Rutheford 2019",
+    price: 115
+  },
+  {
+    name: "Chappellet, 'Signature' Cabernet Sauvignon, Napa Valley 2019",
+    price: 160
+  },
+  {
+    name: "Justin Vineyard & Winery Isosceles Reserve, Paso Robles 2019",
+    price: 155
+  },
+  {
+    name: "Paul Hobbs, Crossbarn, Pinot Noir, Sonoma Coast 2019",
+    price: 80
+  },
+  {
+    name: "Shafer TD-9, Napa Valley 2019",
+    price: 130
+  },
+  {
+    name: "Duckhorn Vineyard Merlot, Napa Valley 2019",
+    price: 68
+  },
+  {
+    name: "Sea Smoke Pinot Noir Southing 2020",
+    price: 190
+  },
+  {
+    name: "Chappellet Mountain Cuvee, Rare Blend, Napa Valley 2020",
+    price: 70
+  },
+
+  
 ]
 
 export {
@@ -377,5 +440,6 @@ export {
   redSicily,
   redTuscany,
   redTrentinoAltoAdige,
-  redVeneto
+  redVeneto,
+  redSpain,
 }
