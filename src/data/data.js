@@ -1,16 +1,17 @@
-const sparklingItaly = [
-  {
-    name: "Prosecco Col dei Salici, Veneto DOC NV",
-    price: 44
+  
+  const sparklingItaly = [
+    {
+      name: "Prosecco Col dei Salici, Veneto DOC NV",
+      price: 44
   },
-{
-  name: "Barone Pizzini Extra Brut Franciacorta DOGC",
-  price: 75
-},
-{
-  name: "Barone Pizzini Franciacorta DOGC",
-  price: 85
-}
+  {
+    name: "Barone Pizzini Extra Brut Franciacorta DOGC",
+    price: 75
+  },
+  {
+    name: "Barone Pizzini Franciacorta DOGC",
+    price: 85
+  }
 ]
 
 const champagneFrance = [
@@ -70,7 +71,7 @@ const whitePiedmont = [
   {
     name: "Gaja Chardonnay 'Rossj Bass', Langhe DOC 2019",
     price: 195
-
+    
   }
 ]
 
@@ -142,14 +143,14 @@ const whiteCalifornia = [
   {
     name: "Chateu Montelena Chardonnay, 2020",
     price: 145
-
+    
   }
 ]
 
 //------------------------------------------------------------------------
 
 // {
-//   name: "",
+  //   name: "",
 //   price:
 // }
 
@@ -225,7 +226,7 @@ const redTuscany = [
     name: "Ciacci Piccolomini, Brunello di Montalcino DOCG 2017",
     price: 120
   },
-
+  
   {
     name: "Argiano, Brunello di Montalcino DOCG 2017",
     price: 99
@@ -441,6 +442,8 @@ const redChile = [
     price: 48
   },
 ]
+
+
 
 
 export {
